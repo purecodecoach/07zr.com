@@ -1,0 +1,16 @@
+{
+  "blogs": {
+    "title": "Blogs Page",
+    "description": "SoftNet.LLC company blogs is the populated content for the development method"
+  },
+  "signup": {
+    "full-name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "btn-text": "Create Account",
+    "checkbox-label": "I read all privacy policy content"
+  },
+  "login": {
+
+  }
+}
